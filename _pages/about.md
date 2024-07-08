@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Building Physics and Sustainable Design Subdivision, Department of Civil Engineering, KU Leuven, Belgium. My core research mainly deals with numerical simulations and validations of heat, air, and moisture (HAM) Models, via monitoring and measurements on building components. My research interests also involve restoration, renovation, and management of built heritage..
+I am a PhD researcher in Building Physics and Sustainable Design Subdivision, Department of Civil Engineering, KU Leuven, Belgium. My core research mainly deals with numerical simulations and validations of heat, air, and moisture (HAM) Models, via monitoring and measurements on building components. My research interests also involve restoration, renovation, and management of built heritage.
 
 A data-driven personal website
 ======
