@@ -12,8 +12,8 @@ I am a PhD researcher in Building Physics and Sustainable Design Subdivision, De
 
 Research 
 ======
-1. Read my [academic publications](https://github.com/academicpages/academicpages.github.io](https://academicpages.github.io/publications/). 
-1. Read my [talks](https://academicpages.github.io/talks/)Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). 
+1. Read my [academic publications](https://xinyuandang.github.io/publications/). 
+1. Read my [talks](https://xinyuandang.github.io/talks/). 
 
 Site-wide configuration
 ------
