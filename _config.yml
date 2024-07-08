@@ -85,9 +85,9 @@ author:
   bio              : "PhD Researcher in Building Physics and Sustainable Design, Department of Civil Engineering, KU Leuven"
   location         : "Leuven, Belgium"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=qjqh3dgAAAAJ"
-  email            :
+  email            : "dangxinyuan1994@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Xinyuan-Dang"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : ""
+  twitter          : 
   vine             :
   weibo            :
   xing             :
