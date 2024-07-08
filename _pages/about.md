@@ -13,10 +13,7 @@ I am a PhD researcher in Building Physics and Sustainable Design Subdivision, De
 Research 
 ======
 1. Read my [academic publications](https://github.com/academicpages/academicpages.github.io](https://academicpages.github.io/publications/). 
-1. Read my [talks](https://academicpages.github.io/talks/)Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Read my [talks](https://academicpages.github.io/talks/)Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). 
 
 Site-wide configuration
 ------
